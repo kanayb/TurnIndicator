@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-1ed2eb93bdcef8785481a899d41e765f9424e772.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/pre-dexed/release/classes-7e368673d1a7a3ec25a0acc8b921c475988809d0.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-a9d163ee57dd029df916185dce2ff4c270490912.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/TurnIndicator/app/build/intermediates/pre-dexed/release/classes-de3aead67bcfe7c127ad9df8c8b9e3c5d80dc32b.jar" />
+    </item>
+
+</items>
